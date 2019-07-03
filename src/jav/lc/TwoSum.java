@@ -1,4 +1,4 @@
-package java.lc;
+package jav.lc;
 
 public class TwoSum {
 }
