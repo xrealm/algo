@@ -2,6 +2,6 @@ package jav.base;
 
 public class Node {
 
-    int val;
-    Node next;
+    public int value;
+    public Node next;
 }
